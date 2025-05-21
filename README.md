@@ -38,6 +38,7 @@ chmod +x setup.sh
 ```
 
 This will:
+- Install system dependencies (git, python, etc)
 - Create necessary directories
 - Set up a Python virtual environment
 - Install PyTorch with CUDA support
